@@ -1,3 +1,2 @@
-# Pac Men Game
-This project is a small game that allows the user to add as many Pac Men as they want and send them racing in random directions with the click of a button.  This is similar to the real Pac Man game, only with no maze as a boundary. <br><br>
-<a href="index.html"> Pac Men Game</a>
+Pac Men Game<br>
+This project is a small game that allows the user to add as many Pac Men as they want and send them racing in random directions with the click of a button.  This is similar to the real Pac Man game, only with no maze as a boundary. To run this game, simply load the index.html file. There are two buttons at the top left of the screen.  Click the "Add PacMan" to add as many Pac Men as you want.  Then, when you are ready to start the game, click "Start Game" and the Pac Men will begin moving. 
